@@ -1,0 +1,5 @@
+{
+  "name": "Roblox Lua Scripting Tutor",
+  "description": "An interactive tutorial to learn Lua scripting for Roblox Studio, focusing on creating attributes and actions for tools across different platforms (PC and Mobile).",
+  "requestFramePermissions": []
+}
